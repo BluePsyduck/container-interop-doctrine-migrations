@@ -1,9 +1,16 @@
 # bluepsyduck/container-interop-doctrine-migrations
 
-[![Latest Stable Version](https://poser.pugx.org/bluepsyduck/container-interop-doctrine-migrations/v/stable)](https://packagist.org/packages/bluepsyduck/container-interop-doctrine-migrations) 
-[![License](https://poser.pugx.org/bluepsyduck/container-interop-doctrine-migrations/license)](https://packagist.org/packages/bluepsyduck/container-interop-doctrine-migrations) 
-[![Build Status](https://travis-ci.com/BluePsyduck/container-interop-doctrine-migrations.svg?branch=master)](https://travis-ci.com/BluePsyduck/container-interop-doctrine-migrations) 
-[![codecov](https://codecov.io/gh/BluePsyduck/container-interop-doctrine-migrations/branch/master/graph/badge.svg)](https://codecov.io/gh/BluePsyduck/container-interop-doctrine-migrations)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/BluePsyduck/container-interop-doctrine-migrations)](https://github.com/BluePsyduck/container-interop-doctrine-migrations/releases)
+[![GitHub](https://img.shields.io/github/license/BluePsyduck/container-interop-doctrine-migrations)](LICENSE.md)
+[![Codecov](https://img.shields.io/codecov/c/gh/BluePsyduck/container-interop-doctrine-migrations?logo=codecov)](https://codecov.io/gh/BluePsyduck/container-interop-doctrine-migrations)
+
+### DEPRECATED: Use package [roave/psr-container-doctrine](https://github.com/Roave/psr-container-doctrine) instead.
+
+[roave/psr-container-doctrine](https://github.com/Roave/psr-container-doctrine) replaces 
+[dasprid/container-interop-doctrine](https://github.com/DASPRiD/container-interop-doctrine) with the addition of 
+Doctrine Migrations, which makes this package obsolete.
+
+---
 
 This library is an extension to 
 [dasprid/container-interop-doctrine](https://github.com/DASPRiD/container-interop-doctrine) 
